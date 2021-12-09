@@ -1,1 +1,0 @@
-This program uses my own waypoint system to have the rexrov search a designated area and record the Points that it finds with its sonar at specific intervals. It is used to develop a model of the ship for the rexrov.
